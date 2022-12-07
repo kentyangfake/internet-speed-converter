@@ -13,4 +13,4 @@ const UnitControl = () => (
         </div>
   );
 
-export default UnitControl;
+export default UnitControl
